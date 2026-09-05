@@ -186,5 +186,11 @@ This project is currently **private / unlicensed**. No permission is granted to 
 
 </div>
 ```
+<h2>📱 App Screenshots</h2>
 
-> 📸 *Add real screenshots of your app here — replace this line with actual screenshots from Expo Go for a more compelling README.*
+<p align="center">
+  <img src="app_screenshots/home.png" width="220">
+  <img src="app_screenshots/tests.png" width="220">
+  <img src="app_screenshots/updates.png" width="220">
+  <img src="app_screenshots/insights.png" width="220">
+</p>
