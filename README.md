@@ -189,8 +189,8 @@ This project is currently **private / unlicensed**. No permission is granted to 
 <h2>📱 App Screenshots</h2>
 
 <p align="center">
-  <img src="app_screenshots/home.png" width="220">
-  <img src="app_screenshots/tests.png" width="220">
-  <img src="app_screenshots/updates.png" width="220">
-  <img src="app_screenshots/insights.png" width="220">
+  <img src="app_screenshots/WhatsApp Image 2026-09-05 at 12.03.13 PM (1).jpeg" width="220">
+  <img src="app_screenshots/WhatsApp Image 2026-09-05 at 12.03.13 PM (2).jpeg" width="220">
+  <img src="app_screenshots/WhatsApp Image 2026-09-05 at 12.03.13 PM (3).jpeg" width="220">
+  <img src="app_screenshots/WhatsApp Image 2026-09-05 at 12.03.13 PM.jpeg width="220">
 </p>
